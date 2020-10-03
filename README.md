@@ -91,20 +91,20 @@ Full results (including images) from StyleGAN and VAE are not included due to th
     
 
 ## References
-<a id="1">[1]</a>  J. T. Springenberg, “Unsupervised and Semi-Supervised Learning with Categorical Generative Adversarial Networks,” *ICLR* 2016.
-<a id="2">[2]</a> M. Pantic, M. Valstar, R. Rademaker, L. Maat, "Web-based database for facial expression analysis," *Proc. 13th ACM Int'l Conf. Multimedia (Multimedia '05)*, pp. 317-321, 2005. 
-<a id="3">[3]</a> M. G. Calvo, D. Lundqvist, “Facial expressions of emotion (KDEF): Identification under different display-duration conditions,” *Behav Res*, Vol. 40, no. 1, pp. 109–115, 2008.
-<a id="4">[4]</a> A. Krizhevsky, I. Sutskever, and G. E. Hinton, “Imagenet classification with deep convolutional neural networks,” *Adv. Neural Inf. Process*. Syst. 25, pp. 1106–1114, 2012.
-<a id="5">[5]</a> K. Simonyan and A. Zisserman, “Very deep convolutional networks for large-scale image recognition,” *Proc. 3rd Int. Conf. Learn. Representat.*, 2015.
-<a id="6">[6]</a> K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” *Proc. IEEE Conf. Comput. Vis. Pattern Recognit.*, pp. 770–778, 2016.
-<a id="7">[7]</a>  C. Szegedy et al., “Going deeper with convolutions,” in Proc. IEEE Conf. Comput. Vis. Pattern Recognit., pp. 1–9, 2015.
-<a id="8">[8]</a> V. Nair and G. E. Hinton. “Rectified Linear Units Improve Restricted Boltzmann Machines,” *ICML,* pp. 807–814, 2010.
-<a id="9">[9]</a> A. L. Maas, A. Y. Hannun, A. Y. Ng, “Rectifier nonlinearities improve neural network acoustic models,” *ICML*, Vol. 30, 2013.
-<a id="10">[10]</a> A. Hannun et al., “Deep Speech: Scaling up end-to-end speech recognition,” <a href = "http://arxiv.org/abs/1412.5567">*http://arxiv.org/abs/1412.5567*</a>, 2014
-<a id="11">[11]</a> N. Qian, “On the momentum term in gradient descent learning algorithms,” *Neural Networks*, Vol. 12, no. 1, pp. 145-151, 1999.
-<a id="12">[12]</a> T. Tieleman, G. Hinton, “Lecture 6.5—RmsProp: Divide the gradient by a running average of its recent magnitude,” *COURSERA: Neural Networks for Machine Learning*, 2012.
-<a id="13">[13]</a>  D. Kingma, J. Ba, “Adam: A method for stochastic optimization,” *ICLR* 2015.
-<a id="14">[14]</a> D. P. Kingma and M. Welling, "Auto-Encoding Variational Bayes", <a href = "https://arxiv.org/abs/1312.6114">*https://arxiv.org/abs/1312.6114*</a>, 2014
+<a id="1">[1]</a>  J. T. Springenberg, “Unsupervised and Semi-Supervised Learning with Categorical Generative Adversarial Networks,” *ICLR* 2016.  
+<a id="2">[2]</a> M. Pantic, M. Valstar, R. Rademaker, L. Maat, "Web-based database for facial expression analysis," *Proc. 13th ACM Int'l Conf. Multimedia (Multimedia '05)*, pp. 317-321, 2005.   
+<a id="3">[3]</a> M. G. Calvo, D. Lundqvist, “Facial expressions of emotion (KDEF): Identification under different display-duration conditions,” *Behav Res*, Vol. 40, no. 1, pp. 109–115, 2008.  
+<a id="4">[4]</a> A. Krizhevsky, I. Sutskever, and G. E. Hinton, “Imagenet classification with deep convolutional neural networks,” *Adv. Neural Inf. Process*. Syst. 25, pp. 1106–1114, 2012.  
+<a id="5">[5]</a> K. Simonyan and A. Zisserman, “Very deep convolutional networks for large-scale image recognition,” *Proc. 3rd Int. Conf. Learn. Representat.*, 2015.  
+<a id="6">[6]</a> K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” *Proc. IEEE Conf. Comput. Vis. Pattern Recognit.*, pp. 770–778, 2016.  
+<a id="7">[7]</a>  C. Szegedy et al., “Going deeper with convolutions,” in Proc. IEEE Conf. Comput. Vis. Pattern Recognit., pp. 1–9, 2015.  
+<a id="8">[8]</a> V. Nair and G. E. Hinton. “Rectified Linear Units Improve Restricted Boltzmann Machines,” *ICML,* pp. 807–814, 2010.  
+<a id="9">[9]</a> A. L. Maas, A. Y. Hannun, A. Y. Ng, “Rectifier nonlinearities improve neural network acoustic models,” *ICML*, Vol. 30, 2013.  
+<a id="10">[10]</a> A. Hannun et al., “Deep Speech: Scaling up end-to-end speech recognition,” <a href = "http://arxiv.org/abs/1412.5567">*http://arxiv.org/abs/1412.5567*</a>, 2014  
+<a id="11">[11]</a> N. Qian, “On the momentum term in gradient descent learning algorithms,” *Neural Networks*, Vol. 12, no. 1, pp. 145-151, 1999.  
+<a id="12">[12]</a> T. Tieleman, G. Hinton, “Lecture 6.5—RmsProp: Divide the gradient by a running average of its recent magnitude,” *COURSERA: Neural Networks for Machine Learning*, 2012.  
+<a id="13">[13]</a>  D. Kingma, J. Ba, “Adam: A method for stochastic optimization,” *ICLR* 2015.  
+<a id="14">[14]</a> D. P. Kingma and M. Welling, "Auto-Encoding Variational Bayes", <a href = "https://arxiv.org/abs/1312.6114">*https://arxiv.org/abs/1312.6114*</a>, 2014  
 <a id="15">[15]</a> T. Karras, S. Laine, M. Aittala, J. Hellsten, J. Lehtinen and T. Aila,
 "Analyzing and Improving the Image Quality of StyleGAN", <a href = "https://arxiv.org/abs/1912.04958">*https://arxiv.org/abs/1912.04958*</a> , 2020,
 
