@@ -71,8 +71,9 @@ Generated Image with StyleGAN 2
 All codes required to run the experiments.
 * rosenbrock.py  
 Code for visualisation of rosenbrock's function with two optimisers.
+* Performance Comparison of CatGAN using different Facial Expression Recognition Datasets.pdf  
 * Performance Comparison of CatGAN using different Facial Expression Recognition Datasets.pptx  
-A ppt file used for a conference in South Korea
+ Ppt and pdf files used for a conference in South Korea ( 2020 Summer Conference of Korean Multimedia Society)
 * VAE_SGAN  
 Folder including codes needed to run experiments on different workstation. (Conversion from .ipynb to .py)
     * CatGAN.py  
